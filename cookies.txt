@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+studio00132.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1691011395|7QHHbLJPcTjb
+studio00132.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=uw2-pub-1
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01286b42afc97443e21af706519cf87ba7d8196945b39910a9dd696bca5d6b538c66a20ac01df715be30dd5c82d583b61f42efb0a3
+studio00132.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	none
+
